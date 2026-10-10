@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: deadlockcompendium.github.io
+  baseUrl: malfunctionCode.github.io/compendium
   ignorePatterns:
     - private
     - templates
