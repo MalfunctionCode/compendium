@@ -1,6 +1,6 @@
 **Recommended Build:** 207750
 
-### Character Tips
+## Character Tips
 ---
 - Pocket is a character who fights backwards
 	- You dive into the backline, deal your damage and then work your way back to your team's frontline
@@ -21,16 +21,17 @@
 	- Always keep an eye out for who has DBs and figure out what the optimal play based on that is. Pulling a support into an unfavorable position to DB a priority target can win fights
 	- Affliction has a wind-up time and learning to time the actual affliction hit with your Majestic Leap dive is very important. Depending on height you can cast Affliciton before dropping and it will hit as soon as you land 
 
-### General Gameplan
+## General Gameplan
 ---
 - Your early-midgame actually is actually rather weak and you should be focusing on macroing and clearing camps till you hit your big spikes
 	- You can effectively clear two lanes at the same time by throwing a cloak to the other lane, satcheling the wave and then tping
 	- Keep in mind you get less (or no) money from doing this, so consider how much time you have to get back to the other lane or even how important prio on that lane is etc etc.
 - Late-game you should be at as many big fights as possible by using your Majestic Leap and Cloak to be in the right place
 	- You'd think Trophy would be good on Pocket, but since his early is so slow it's really suboptimal and you won't be in all the fights in early game to properly stack it
+### Fights:
 - As mentioned above, pick your Affliction targets and try to dive and full combo them, after that you are just hitting whoever you can with your gun till you get a cloak + satchel combo back. Most of your value comes out of that initial burst.
 - **General Combo: Leap -> Barrage -> Leap Drop -> Affliction -> Cloak (Backwards through enemy) -> Satchel -> Leave Satchel -> Cloak TP** 
-### Itemization
+## Itemization
 ---
 Similarly to [[Celeste]], Pocket dosen't really need flat spirit due to his Barrage amp. Instead range, duration and cooldown are insanely valuable stats on him increasing his uptime, survivability and opportunities. Battle Vest and gun spike are also really strong early invests which can help him finish up kills in early fights where his ability damage is still lacking.
 
@@ -43,7 +44,7 @@ Pocket also has some absolutely core active items:
 - **Majestic Leap/Warp Stone** are his main movement items and picked based on whatever you prefer. Some players prefer Warp Stone for allowing you to jumpscare afflict them, instead of heavily telegraphing your engage with Majestic Leap. However, Majestic Leap allows you more angles of attack and also just in general makes you quicker to follow up on engages.  
 	- Personally I learned Pocket back when Majestic Leap was stronger and most of my muscle memory works around Majestic Leap. I'm a Majestic Leap truther. 
 
-### Counter Tips
+## Counter Tips
 ---
 - **Divine Barrier Divine Barrier Divine Barrier Divine Barrier Divine Barrier Divine Barrier **
 	- Cleanses Affliction on a Target or urself
