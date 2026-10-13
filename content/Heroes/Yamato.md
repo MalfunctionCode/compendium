@@ -19,10 +19,6 @@
 - Flying Slash can be cancelled mid flight by pressing Space
 	- Playing around with cancel timings for different momentum in different directions 
 	- It's pretty easy to get a feel for this though once you understand it 
-- **Itemization**
-	- Util items like Disarming Hex or Silence Wave can work really well on her to help her 1v1 potential
-	- Recharging Rush is an amazing Item if their team has a lot of mobility and procs off of a Flying Slash + Alt-fire combo
-	- Return Fire works insanely well on this character and can win you 1v1s against gun characters
 
 ### General Fightplan
 ---
@@ -35,6 +31,21 @@
 	- If they have fight turning CC (Paige, Rem, Billy, Solomon) then you should opt for parrying, as they will go for melees because the CC should prevent anyone trying to Parry
 	- If they've used it while ur ult is casting or just in general don't have any big cc rather opt for punching to guarantee one, as your teammates will probably fly in and parry
 
+### Itemization
+---
+Despite the characters spirit scalings, current builds generally opt into building more gun (melee) damage and playing her as like a frontliner who can stick to a target. The idea is that with recharging rush and express shot you can constantly cast grapples and hit alt fires while chasing. Her extra melee damage on her 3 also means getting a heavy melee can really chunk them, but it's obviously attached to the parry mindgame. 
+
+The reason I prefer to buy spirit on her is because:
+- It's generally more tanky (more spirit to scale radiant regen and crimson slash)
+- Opting for max power slash gives you insane amounts of midgame tempo and lets you play like a pseudo drifter easily 1v1ing the enemy carries in midgame
+- She still has the heavy chase utility of Gun Yam by maxxing 2 second, buying lifestrike for the slow and still having the option of recharging rush available based on game. 
+- Overall the build trades a bit of damage for more consistency opposed to melee Yamato(can't be parried/have to waste Counterspell) and tankiness
+
+**General Itemization Notes:**
+- Util items like Disarming Hex or Silence Wave can work really well on her to help her 1v1 potential
+- Recharging Rush is an amazing Item if their team has a lot of mobility and procs off of a Flying Slash + Alt-fire combo
+- Return Fire works insanely well on this character and can singlehandedly win you 1v1s
+- You generally don't want to opt for firerate slow on her, since crimson slash has very good firerate slow already. Juggernaut is not a horrible buy though especially into Viscous or Billy due to the melee resist. 
 
 ### Counter Tips
 ---
@@ -44,4 +55,3 @@
 	- Counterspell can completely negate her Power Slash damage 
 - Rebuttal very good since a lot of yamatos will become melee heavy especially in lane
 - Antiheal and Shred mainly fuck her over, as she doesn't stack much hp and mainly gets her survivability from healing and Resists 
-- 
