@@ -1,4 +1,4 @@
-**Recommended Build:** 207750
+**Recommended Build: 207750** 
 
 ## Character Tips
 ---
