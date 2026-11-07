@@ -8,7 +8,7 @@ More details below the table on [[#Methodology]] and [[#Who to Avoid]]
 | Hero                 | Id     | Noteworthy Players (with builds)                                                       |
 | -------------------- | ------ | -------------------------------------------------------------------------------------- |
 | Abrams               | 583243 | Kapten, Lystic, together                                                               |
-| Apollo (Spirit)      | 834774 | Crow (960438), Ramo, ABL                                                               |
+| Apollo (Spirit)      | 834774 | Crow (Melee build: 960438), Ramo, ABL                                                  |
 | Baba                 | 858286 | idk who plays this char lomein and avg know their shit tho                             |
 | Bebop                | 922898 | Mosebye, Erebus                                                                        |
 | Billy                | 613001 | crayon, together                                                                       |
