@@ -1,4 +1,4 @@
-**Suggested Build: 813379 (Spirit), 720681 (Gun)**
+**Suggested Build: 720681**
 
 ## Character Tips
 ---

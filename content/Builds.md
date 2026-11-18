@@ -24,8 +24,8 @@ More details below the table on [[#Methodology]] and [[#Who to Avoid]]
 | Holliday             | 551435 | Illaryaa, Teveon                                                                       |
 | Infernus (Afterburn) | 623460 | Me :))), Renon, edboi kinda, **basil (!! dash build !!)**                              |
 | Ivy                  | 483885 | Division, Piggy, Highdocker (gun), Wander (gun)                                        |
-| Kelvin               | 649877 | Piggy, SurvivalRex,                                                                    |
-| Geist                | 268314 | Dew, Oses                                                                              |
+| Kelvin               | 649877 | Piggy, SurvivalRex                                                                     |
+| Geist                | 972411 | Dew, Oses                                                                              |
 | Lash                 | 547902 | Applesauce, Ashires, Deathy, Axl                                                       |
 | Mcginnis             | 611759 | Stevie B and idk I need to find a gun build nobody plays this                          |
 | Mina                 | 942886 | basil, lordnm, syth                                                                    |
