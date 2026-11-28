@@ -7,7 +7,8 @@
 	- Can secure 2 souls/damage multiple enemies if they are lined up behind each other
 - A lot of the characters survivability comes from being slippery and weaving in and out of fights
 	- Reduced Gravity and increased air acceleration help with this
-	- Bind jump to scroll down to bhop consistently while out of stamina
+	- ~~Bind jump to scroll down to bhop consistently while out of stamina~~
+		- **This has been nerfed as of 26/11.** Learn spacebar hopping though it's useful and not too hard 
 	- You can bhop with stam by using spacebar (more forgiving than most source games)
 - Radiant Daggers ignores all terrain vertically
 	- Very Important to learn the location of midboss pit so you can hit it from blue lane when coming in for contests
